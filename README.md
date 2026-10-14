@@ -188,4 +188,20 @@ Terraform will ask for confirmation. Review the list before proceeding. Supply t
 
 ---
 
+## Project Screenshots
+
+These screenshots show the application running on AWS EC2, the successful Jenkins delivery build, and the provisioned EC2 instances.
+
+### Simon Says application running on EC2
+
+![Simon Says application deployed on EC2](screenshots/application.png)
+
+### Jenkins successful delivery build
+
+![Jenkins successful delivery build](screenshots/jenkins-successful-build.png)
+
+### AWS EC2 instances
+
+![Provisioned EC2 instances](screenshots/ec2-instances.png)
+
 Created as a hands-on learning project to understand infrastructure as code, containerization, image registries, and Jenkins-based DevOps workflows.
